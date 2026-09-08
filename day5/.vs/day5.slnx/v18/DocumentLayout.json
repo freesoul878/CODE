@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7792C679-870D-4F57-BA2C-DABC30A6CE77}|day5\\day5.vcxproj|E:\\code\\day5\\day5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7792C679-870D-4F57-BA2C-DABC30A6CE77}|day5\\day5.vcxproj|solutionrelative:day5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\code\\day5\\day5\\main.c",
+              "RelativeDocumentMoniker": "day5\\main.c",
+              "ToolTip": "E:\\code\\day5\\day5\\main.c",
+              "RelativeToolTip": "day5\\main.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-08T11:11:31.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
