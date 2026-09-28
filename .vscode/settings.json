@@ -1,2 +1,12 @@
 {
+	"C_Cpp.errorSquiggles": "Enabled",
+	"C_Cpp.intelliSenseEngine": "default",
+	"editor.quickSuggestions": {
+		"comments": "off",
+		"strings": "off",
+		"other": "off"
+	},
+	"editor.suggestOnTriggerCharacters": false,
+	"editor.inlineSuggest.enabled": false,
+	"github.copilot.editor.enableAutoCompletions": false
 }
